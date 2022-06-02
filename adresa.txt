@@ -1,0 +1,14 @@
+1) Ссылка для Шага_4
+https://github.com/friendly-telegram/gitlab-mirror
+если она не работает воспользуйтесь этой
+https://github.com/airovigo/gitlab-mirror
+
+
+
+2) Ссылка для Шага_5
+https://my.telegram.org
+
+
+
+3) Ссылка для Шага_6
+https://www.heroku.com/deploy/?template=
