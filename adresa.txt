@@ -5,10 +5,10 @@ https://github.com/airovigo/gitlab-mirror
 
 
 
-2) Ссылка для Шага_5
+2) Ссылка для Шага_6
 https://my.telegram.org
 
 
 
-3) Ссылка для Шага_6
+3) Ссылка для Шага_8
 https://www.heroku.com/deploy/?template=
